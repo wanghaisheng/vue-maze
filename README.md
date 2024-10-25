@@ -3,6 +3,8 @@
     <a href="https://qm.qq.com/q/iifNs5qukg"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-920930589-green" alt="QQ群：920930589"></a>
 </p>
 
+# maze maker
+
 ## 迷宫生成器
 
 - 项目框架 [Vue.js](https://cn.vuejs.org)
